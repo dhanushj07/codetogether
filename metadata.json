@@ -1,0 +1,6 @@
+{
+  "name": "CodeTogether",
+  "description": "Social collaborative coding platform with real-time Monaco editor, Jitsi video calls, 1v1 coding battles, LeetCode problem integration, Google Sheets export, and UPI subscriptions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
